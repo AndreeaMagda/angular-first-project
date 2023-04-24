@@ -1,6 +1,6 @@
 import { Injectable } from '@angular/core';
 import { Product } from './products';
-import * as path from 'path';
+
 
 
 @Injectable({
